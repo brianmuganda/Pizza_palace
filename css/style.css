@@ -149,3 +149,12 @@ a:hover{
     color: white;
     justify-content: space-around;   
 }
+.hide{
+  display: none;
+}
+.hide-menu-image{
+  cursor: pointer;
+}
+.hide-menu-image:hover{
+  opacity: 0.6;
+}
