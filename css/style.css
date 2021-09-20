@@ -45,3 +45,27 @@ a:hover{
   color: white;
   font-size: 30px;
 }
+.ourstory{
+    
+    width: 100%;
+    height: 500px;
+}  
+#photo{
+    float: left;
+}
+.description{
+    padding: 15px;
+    margin-left: 250px;
+    font-size: 20px;
+    text-align: center;
+}
+#ordern{
+    background-image: url("../images/order_page_piza.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
