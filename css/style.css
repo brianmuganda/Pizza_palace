@@ -60,7 +60,7 @@ a:hover{
     text-align: center;
 }
 #ordern{
-    background-image: url("../images/order_page_piza.jpg");
+    background-image: url("../images/deluxe_pizza.jpg");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
@@ -69,20 +69,6 @@ a:hover{
     position: relative;
 
 }
-.bounce {
-    animation: bounce 2s infinite;
-  }
-@keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-35px);
-    }
-    60% {
-      transform: translateY(-20px);
-    }
-  }
 .order h2{
     text-align: center;
   }
@@ -91,7 +77,6 @@ a:hover{
   }
   .order{
     background-attachment: fixed;
-    background-image: url("../images/slider2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -121,14 +106,14 @@ a:hover{
   }
   td,th{
     font-size: 20px;
-    color: white;
+    color: black;
   }
   .choise h2{
-    color:orange;
+    color: black;
     text-align: left;
   }
   #your-orders{
-    color: white;
+    color: black;
     font-size: 30px;
   }
   #information{
@@ -136,7 +121,7 @@ a:hover{
     font-size: 22px;
     padding-right: 8%;
     padding-left: 5%;
-    color: #ffa500;
+    color: black;
   }
   .order-overlay{
     background-color: rgba(0, 0, 0,0.5);
