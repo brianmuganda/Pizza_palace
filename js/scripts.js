@@ -10,6 +10,9 @@ function Getpizza( name,size,crust,topping, total ){
 
 
 $(document).ready(function(){
+  $(".jqclick").click(function(){
+    $(".hide").show();
+  });
   $("button.proceed").click(function(event){
    let pname = $(".name option:selected").val();
    let psize = $("#size option:selected").val();
