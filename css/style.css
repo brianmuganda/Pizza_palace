@@ -66,16 +66,6 @@ a:hover{
   color: black;
   font-size: 30px;
 }
-#ordern{
-    background-image: url("../images/deluxe_pizza.jpg");
-    background-color: #cccccc;
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-
-}
 .order h2{
     text-align: center;
   }
@@ -83,6 +73,7 @@ a:hover{
     padding-top: 30px;
   }
   .order{
+    background-image: url(../images/deluxe_pizza.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
